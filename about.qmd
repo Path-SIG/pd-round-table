@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+This is an about page for the entire site.
 
-```{r}
-1 + 1
-```
+This page was created by Samir Nacer and Trey Saddler.

@@ -1,11 +1,7 @@
 ---
-title: "quarto-website"
+title: "PD Round Table"
 ---
 
-This is a Quarto website.
+This website is about the PD Round Table.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Additional information will follow.
