@@ -1,6 +1,7 @@
 
 ---
 title: "Detroit Medical Center/Wayne State University"
+categories: MI
 about:
   template: jolla
   links:

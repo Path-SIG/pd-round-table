@@ -1,6 +1,7 @@
 
 ---
 title: "University of Louisville School of Medicine"
+categories: KY
 about:
   template: jolla
   links:

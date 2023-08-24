@@ -1,6 +1,7 @@
 
 ---
 title: "University of Missouri-Columbia"
+categories: MO
 about:
   template: jolla
   links:

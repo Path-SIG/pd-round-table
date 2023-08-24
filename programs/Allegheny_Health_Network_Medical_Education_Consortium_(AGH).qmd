@@ -1,6 +1,7 @@
 
 ---
 title: "Allegheny Health Network Medical Education Consortium (AGH)"
+categories: PA
 about:
   template: jolla
   links:

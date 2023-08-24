@@ -1,6 +1,7 @@
 
 ---
 title: "University of Hawaii"
+categories: HI
 about:
   template: jolla
   links:

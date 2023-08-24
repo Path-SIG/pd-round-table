@@ -1,6 +1,7 @@
 
 ---
 title: "Medical College of Georgia"
+categories: GA
 about:
   template: jolla
   links:

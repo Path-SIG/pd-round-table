@@ -1,6 +1,7 @@
 
 ---
 title: "Texas A&M College of Medicine-Scott and White Medical Center (Temple) Program"
+categories: TX
 about:
   template: jolla
   links:

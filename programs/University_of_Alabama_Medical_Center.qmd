@@ -1,6 +1,7 @@
 
 ---
 title: "University of Alabama Medical Center"
+categories: AL
 about:
   template: jolla
   links:

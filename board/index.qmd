@@ -1,0 +1,9 @@
+---
+title: "Path SIG Board"
+listing:
+  type: grid
+  contents:
+    - "*.qmd"
+---
+
+The following are members of the Path SIG Board.

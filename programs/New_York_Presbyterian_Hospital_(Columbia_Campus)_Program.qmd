@@ -1,6 +1,7 @@
 
 ---
 title: "New York Presbyterian Hospital (Columbia Campus) Program"
+categories: NY
 about:
   template: jolla
   links:

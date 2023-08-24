@@ -1,6 +1,7 @@
 
 ---
 title: "Washington University/B-JH/SLCH Consortium"
+categories: MO
 about:
   template: jolla
   links:

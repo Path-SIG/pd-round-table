@@ -1,6 +1,7 @@
 
 ---
 title: "University of Toledo Program"
+categories: OH
 about:
   template: jolla
   links:

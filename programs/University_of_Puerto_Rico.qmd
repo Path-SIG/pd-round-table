@@ -1,6 +1,7 @@
 
 ---
 title: "University of Puerto Rico"
+categories: PR
 about:
   template: jolla
   links:

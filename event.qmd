@@ -1,0 +1,11 @@
+---
+title: "Event"
+---
+
+This is the page for the event!
+
+Sep 2, 2023 02:00 PM EST
+
+Here is the Zoom link to register for the event:
+
+[PathSIG Presents: #PathMatch24 PD Panel](https://luc.zoom.us/meeting/register/tZUrduitqTMjHN1xKQ-KFOPhfNuPoyI5PrUj#/registration)

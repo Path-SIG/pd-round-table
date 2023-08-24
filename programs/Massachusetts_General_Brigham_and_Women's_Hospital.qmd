@@ -1,6 +1,7 @@
 
 ---
 title: "Massachusetts General Brigham and Women's Hospital"
+categories: MA
 about:
   template: jolla
   links:

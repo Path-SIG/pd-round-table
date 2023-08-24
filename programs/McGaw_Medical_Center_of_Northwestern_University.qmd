@@ -1,6 +1,7 @@
 
 ---
 title: "McGaw Medical Center of Northwestern University"
+categories: IL
 about:
   template: jolla
   links:

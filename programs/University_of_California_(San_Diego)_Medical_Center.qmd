@@ -1,6 +1,7 @@
 
 ---
 title: "University of California (San Diego) Medical Center"
+categories: CA
 about:
   template: jolla
   links:

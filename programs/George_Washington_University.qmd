@@ -1,6 +1,7 @@
 
 ---
 title: "George Washington University"
+categories: DC
 about:
   template: jolla
   links:

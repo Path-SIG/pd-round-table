@@ -1,6 +1,7 @@
 
 ---
 title: "University of Kansas School of Medicine"
+categories: KS
 about:
   template: jolla
   links:

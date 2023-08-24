@@ -1,6 +1,7 @@
 
 ---
 title: "Henry Ford Hospital/Wayne State University"
+categories: MI
 about:
   template: jolla
   links:

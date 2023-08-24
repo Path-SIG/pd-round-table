@@ -1,6 +1,7 @@
 
 ---
 title: "Medical College of Wisconsin Affiliated Hospitals"
+categories: WI
 about:
   template: jolla
   links:

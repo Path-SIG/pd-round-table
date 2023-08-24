@@ -1,6 +1,7 @@
 
 ---
 title: "University of North Carolina Hospitals"
+categories: NC
 about:
   template: jolla
   links:

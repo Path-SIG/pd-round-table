@@ -1,6 +1,7 @@
 
 ---
 title: "Medical University of South Carolina"
+categories: SC
 about:
   template: jolla
   links:

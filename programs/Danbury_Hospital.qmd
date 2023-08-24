@@ -1,6 +1,7 @@
 
 ---
 title: "Danbury Hospital"
+categories: CT
 about:
   template: jolla
   links:

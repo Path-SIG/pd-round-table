@@ -1,6 +1,7 @@
 
 ---
 title: "University of California (San Francisco)"
+categories: CA
 about:
   template: jolla
   links:

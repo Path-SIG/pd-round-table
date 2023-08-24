@@ -1,6 +1,7 @@
 
 ---
 title: "Hartford Hospital"
+categories: CT
 about:
   template: jolla
   links:

@@ -5,3 +5,5 @@
 
 /.quarto/
 _*
+
+/_*.local

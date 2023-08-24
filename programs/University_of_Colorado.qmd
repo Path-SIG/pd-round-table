@@ -1,6 +1,7 @@
 
 ---
 title: "University of Colorado"
+categories: CO
 about:
   template: jolla
   links:

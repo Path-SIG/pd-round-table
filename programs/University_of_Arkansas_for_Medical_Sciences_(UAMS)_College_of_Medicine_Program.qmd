@@ -1,6 +1,7 @@
 
 ---
 title: "University of Arkansas for Medical Sciences (UAMS) College of Medicine Program"
+categories: AR
 about:
   template: jolla
   links:

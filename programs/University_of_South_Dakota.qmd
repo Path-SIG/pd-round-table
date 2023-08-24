@@ -1,6 +1,7 @@
 
 ---
 title: "University of South Dakota"
+categories: SD
 about:
   template: jolla
   links:

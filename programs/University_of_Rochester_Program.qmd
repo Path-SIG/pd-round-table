@@ -1,6 +1,7 @@
 
 ---
 title: "University of Rochester Program"
+categories: NY
 about:
   template: jolla
   links:

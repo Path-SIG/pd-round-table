@@ -1,6 +1,7 @@
 
 ---
 title: "Baylor College of Medicine"
+categories: TX
 about:
   template: jolla
   links:

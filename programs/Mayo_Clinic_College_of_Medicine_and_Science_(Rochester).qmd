@@ -1,6 +1,7 @@
 
 ---
 title: "Mayo Clinic College of Medicine and Science (Rochester)"
+categories: MN
 about:
   template: jolla
   links:

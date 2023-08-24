@@ -1,6 +1,7 @@
 
 ---
 title: "Mount Sinai Medical Center of Florida"
+categories: FL
 about:
   template: jolla
   links:

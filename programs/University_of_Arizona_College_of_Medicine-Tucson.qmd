@@ -1,6 +1,7 @@
 
 ---
 title: "University of Arizona College of Medicine-Tucson"
+categories: AZ
 about:
   template: jolla
   links:

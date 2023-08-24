@@ -1,6 +1,7 @@
 
 ---
 title: "Yale-New Haven Medical Center"
+categories: CT
 about:
   template: jolla
   links:

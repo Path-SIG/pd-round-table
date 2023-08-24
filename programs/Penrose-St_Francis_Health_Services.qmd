@@ -1,6 +1,7 @@
 
 ---
 title: "Penrose-St Francis Health Services"
+categories: CO
 about:
   template: jolla
   links:

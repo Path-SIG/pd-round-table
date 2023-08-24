@@ -1,6 +1,7 @@
 
 ---
 title: "Louisiana State University (Shreveport)"
+categories: LA
 about:
   template: jolla
   links:

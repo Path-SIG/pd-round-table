@@ -1,6 +1,7 @@
 
 ---
 title: "University of Michigan Health System"
+categories: MI
 about:
   template: jolla
   links:

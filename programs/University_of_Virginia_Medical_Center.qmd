@@ -1,6 +1,7 @@
 
 ---
 title: "University of Virginia Medical Center"
+categories: VA
 about:
   template: jolla
   links:

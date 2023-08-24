@@ -1,6 +1,7 @@
 
 ---
 title: "University of Pennsylvania Health System Program"
+categories: PA
 about:
   template: jolla
   links:

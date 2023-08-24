@@ -1,6 +1,7 @@
 
 ---
 title: "University of Washington"
+categories: WA
 about:
   template: jolla
   links:

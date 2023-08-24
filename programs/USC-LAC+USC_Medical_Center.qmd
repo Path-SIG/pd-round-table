@@ -1,6 +1,7 @@
 
 ---
 title: "USC/LAC+USC Medical Center"
+categories: CA
 about:
   template: jolla
   links:

@@ -1,6 +1,7 @@
 
 ---
 title: "Howard University"
+categories: DC
 about:
   template: jolla
   links:

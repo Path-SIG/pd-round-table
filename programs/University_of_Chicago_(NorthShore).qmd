@@ -1,6 +1,7 @@
 
 ---
 title: "University of Chicago (NorthShore)"
+categories: IL
 about:
   template: jolla
   links:

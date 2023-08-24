@@ -1,6 +1,7 @@
 
 ---
 title: "Loyola University Medical Center"
+categories: IL
 about:
   template: jolla
   links:

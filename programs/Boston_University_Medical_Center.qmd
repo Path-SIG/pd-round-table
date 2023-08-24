@@ -1,6 +1,7 @@
 
 ---
 title: "Boston University Medical Center"
+categories: MA
 about:
   template: jolla
   links:

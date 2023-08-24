@@ -1,6 +1,7 @@
 
 ---
 title: "University of South Florida Morsani Program"
+categories: FL
 about:
   template: jolla
   links:

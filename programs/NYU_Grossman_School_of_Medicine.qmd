@@ -1,6 +1,7 @@
 
 ---
 title: "NYU Grossman School of Medicine"
+categories: NY
 about:
   template: jolla
   links:

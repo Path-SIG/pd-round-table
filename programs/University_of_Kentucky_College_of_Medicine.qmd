@@ -1,6 +1,7 @@
 
 ---
 title: "University of Kentucky College of Medicine"
+categories: KY
 about:
   template: jolla
   links:

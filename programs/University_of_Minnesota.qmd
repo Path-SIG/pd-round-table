@@ -1,6 +1,7 @@
 
 ---
 title: "University of Minnesota"
+categories: MN
 about:
   template: jolla
   links:

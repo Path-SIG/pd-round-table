@@ -1,6 +1,7 @@
 
 ---
 title: "Emory University School of Medicine"
+categories: GA
 about:
   template: jolla
   links:

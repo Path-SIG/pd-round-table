@@ -1,6 +1,7 @@
 
 ---
 title: "University of Texas Health Science Center San Antonio Joe and Teresa Lozano Long School of Medicine Program"
+categories: TX
 about:
   template: jolla
   links:

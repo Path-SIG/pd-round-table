@@ -1,6 +1,7 @@
 
 ---
 title: "Baylor University Medical Center"
+categories: TX
 about:
   template: jolla
   links:

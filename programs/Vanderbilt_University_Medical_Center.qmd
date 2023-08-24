@@ -1,6 +1,7 @@
 
 ---
 title: "Vanderbilt University Medical Center"
+categories: TN
 about:
   template: jolla
   links:

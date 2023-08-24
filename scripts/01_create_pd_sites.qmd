@@ -33,6 +33,7 @@ def create_qmd_file(row, output_dir):
     content = f"""
 ---
 title: "{program}"
+categories: {state}
 about:
   template: jolla
   links:

@@ -1,6 +1,7 @@
 
 ---
 title: "East Tennessee State University/Quillen College of Medicine"
+categories: TN
 about:
   template: jolla
   links:

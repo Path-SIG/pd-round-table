@@ -1,6 +1,7 @@
 
 ---
 title: "Virginia Commonwealth University Health System "
+categories: VA
 about:
   template: jolla
   links:

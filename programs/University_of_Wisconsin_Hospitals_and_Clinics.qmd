@@ -1,6 +1,7 @@
 
 ---
 title: "University of Wisconsin Hospitals and Clinics"
+categories: WI
 about:
   template: jolla
   links:

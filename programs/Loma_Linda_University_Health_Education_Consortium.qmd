@@ -1,6 +1,7 @@
 
 ---
 title: "Loma Linda University Health Education Consortium"
+categories: CA
 about:
   template: jolla
   links:

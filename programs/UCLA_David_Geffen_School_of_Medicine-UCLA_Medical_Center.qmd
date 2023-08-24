@@ -1,6 +1,7 @@
 
 ---
 title: "UCLA David Geffen School of Medicine/UCLA Medical Center"
+categories: CA
 about:
   template: jolla
   links:

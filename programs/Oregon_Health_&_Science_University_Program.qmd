@@ -1,6 +1,7 @@
 
 ---
 title: "Oregon Health & Science University Program"
+categories: OR
 about:
   template: jolla
   links:

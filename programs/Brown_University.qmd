@@ -1,6 +1,7 @@
 
 ---
 title: "Brown University"
+categories: RI
 about:
   template: jolla
   links:

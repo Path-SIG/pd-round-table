@@ -1,6 +1,7 @@
 
 ---
 title: "Tufts Medical Center"
+categories: MA
 about:
   template: jolla
   links:

@@ -1,6 +1,7 @@
 
 ---
 title: "University of Vermont Medical Center"
+categories: VT
 about:
   template: jolla
   links:

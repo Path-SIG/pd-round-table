@@ -1,6 +1,7 @@
 
 ---
 title: "Cleveland Clinic Foundation Program"
+categories: OH
 about:
   template: jolla
   links:

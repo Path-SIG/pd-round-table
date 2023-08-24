@@ -1,6 +1,7 @@
 
 ---
 title: "Stanford Health Care-Sponsored Stanford University"
+categories: CA
 about:
   template: jolla
   links:

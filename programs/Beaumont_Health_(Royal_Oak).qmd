@@ -1,6 +1,7 @@
 
 ---
 title: "Beaumont Health (Royal Oak)"
+categories: MI
 about:
   template: jolla
   links:

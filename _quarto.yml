@@ -4,24 +4,20 @@ project:
   - "*.qmd"
   - "!res/"
   - "!scripts/"
+  output-dir: "_site"
 
 website:
-  title: "PD Round Table"
+  title: "PathSIG Presents: #PathMatch24 PD Panel"
   navbar:
     left:
+      - event.qmd
       - text: "Programs"
         file: programs/index.qmd
+      - text: "Path SIG Board"
+        file: board/index.qmd
       - about.qmd
-  sidebar: 
-    - title: "Programs"
-      contents:
-        - auto: programs/*.qmd
-      
 
 format:
   html:
-    theme: cosmo
+    theme: cerulean
     css: styles.css
-    toc: true
-
-

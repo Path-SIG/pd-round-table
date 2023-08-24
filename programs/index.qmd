@@ -1,5 +1,15 @@
 ---
 title: "Programs"
+listing:
+  type: table
+  contents:
+    - "*.qmd"
+  fields: [categories, title]
+  field-display-names:
+    title: "University"
+    categories: "State"
+  categories: true
+  
 ---
 
 This is the page containing all of the programs on offer.
