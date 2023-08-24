@@ -1,0 +1,12 @@
+
+---
+title: "USC/LAC+USC Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:naritoku@usc.edu
+---
+
+Wes Naritoku, MD, PhD is the Program Director at USC/LAC+USC Medical Center, located in Los Angeles, CA. 

@@ -1,0 +1,12 @@
+
+---
+title: "Vanderbilt University Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:aron.shaver@vumc.org
+---
+
+Aaron C. Shaver, M.D., Ph.D. is the Program Director at Vanderbilt University Medical Center, located in Nashville, TN. 

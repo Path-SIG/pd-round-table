@@ -1,0 +1,17 @@
+
+---
+title: "University of Texas Southwestern Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Charles Timmons, MD, PhD is the Program Director at University of Texas Southwestern Medical Center, located in Dallas, TX. 
+
+## Associate Program Directors
+
+- James D. Burner, MD
+- Yisheng V. Fang, MD, PhD

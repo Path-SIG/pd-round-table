@@ -1,0 +1,12 @@
+
+---
+title: "West Virginia University"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:mflanagan@hsc.wvu.edu
+---
+
+Melina Flanagan, MD is the Program Director at West Virginia University, located in Morgantown, WV. 

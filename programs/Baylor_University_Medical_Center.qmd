@@ -1,0 +1,17 @@
+
+---
+title: "Baylor University Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Peter Allen Dysert, MD is the Program Director at Baylor University Medical Center, located in Dallas, TX. 
+
+## Associate Program Directors
+
+- Raul Benavides, MD
+- Joseph M. Guileyardo, MD

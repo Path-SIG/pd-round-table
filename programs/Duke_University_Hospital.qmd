@@ -1,0 +1,17 @@
+
+---
+title: "Duke University Hospital"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Thomas J. Cummings, MD is the Program Director at Duke University Hospital, located in Durham, NC. 
+
+## Associate Program Directors
+
+- Rex Bentley, MD (AP)
+- Anand Lagoo, MD, PhD (CP)

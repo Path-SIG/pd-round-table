@@ -1,0 +1,12 @@
+
+---
+title: "Tulane University"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Janet Schmid, MD is the Program Director at Tulane University, located in New Orleans, LA. 

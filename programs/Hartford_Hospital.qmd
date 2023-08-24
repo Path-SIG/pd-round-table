@@ -1,0 +1,12 @@
+
+---
+title: "Hartford Hospital"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Fabiola Balarezo, MD is the Program Director at Hartford Hospital, located in Hartford, CT. 

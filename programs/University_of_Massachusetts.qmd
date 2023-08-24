@@ -1,0 +1,12 @@
+
+---
+title: "University of Massachusetts"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Dina Kandil, MD is the Program Director at University of Massachusetts, located in Worcester, MA. 

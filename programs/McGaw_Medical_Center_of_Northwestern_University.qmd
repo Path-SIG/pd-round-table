@@ -1,0 +1,17 @@
+
+---
+title: "McGaw Medical Center of Northwestern University"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Kruti P. Maniar, MD is the Program Director at McGaw Medical Center of Northwestern University, located in Chicago, IL. 
+
+## Associate Program Directors
+
+- Kristy Wolniak, MD, PhD (CP)
+- Luis Blanco, Jr., MD (AP)

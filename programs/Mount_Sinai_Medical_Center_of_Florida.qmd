@@ -1,0 +1,12 @@
+
+---
+title: "Mount Sinai Medical Center of Florida"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Monica Recine, MD is the Program Director at Mount Sinai Medical Center of Florida, located in Miami Beach, FL. 

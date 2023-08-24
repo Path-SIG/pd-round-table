@@ -1,0 +1,12 @@
+
+---
+title: "Johns Hopkins University"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Christopher J VandenBussche, MD, PhD is the Program Director at Johns Hopkins University, located in Baltimore, MD. 

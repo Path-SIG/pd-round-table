@@ -1,0 +1,12 @@
+
+---
+title: "University of Arizona College of Medicine-Tucson"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:rushd@arizona.edu
+---
+
+Demaretta Rush, MD is the Program Director at University of Arizona College of Medicine-Tucson, located in Tucson, AZ. 

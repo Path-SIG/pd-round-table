@@ -1,0 +1,16 @@
+
+---
+title: "Beth Israel Deaconess Medical Center/Harvard Medical School"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:chayne@bidmc.harvard.edu
+---
+
+Cynthia Hayne, MD, PhD is the Program Director at Beth Israel Deaconess Medical Center/Harvard Medical School, located in Boston, MA. 
+
+## Associate Program Directors
+
+- Kerry O’Brien, MD

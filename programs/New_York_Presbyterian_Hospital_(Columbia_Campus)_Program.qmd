@@ -1,0 +1,17 @@
+
+---
+title: "New York Presbyterian Hospital (Columbia Campus) Program"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Carlos Pagan, MD is the Program Director at New York Presbyterian Hospital (Columbia Campus) Program, located in New York, NY. 
+
+## Associate Program Directors
+
+- Ladan Fazlollahi, MD (AP)
+- Richard O. Francis, MD, PhD (CP)

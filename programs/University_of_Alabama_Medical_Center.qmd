@@ -1,0 +1,12 @@
+
+---
+title: "University of Alabama Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:bcmpath@uab.edu
+---
+
+Brandi C. McCleskey, M.D. is the Program Director at University of Alabama Medical Center, located in Birmingham, AL. 

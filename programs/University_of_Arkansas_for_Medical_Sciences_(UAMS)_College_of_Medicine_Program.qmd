@@ -1,0 +1,12 @@
+
+---
+title: "University of Arkansas for Medical Sciences (UAMS) College of Medicine Program"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Susanne Jeffus, MD is the Program Director at University of Arkansas for Medical Sciences (UAMS) College of Medicine Program, located in Little Rock, AR. 

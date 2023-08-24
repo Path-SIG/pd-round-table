@@ -1,0 +1,16 @@
+
+---
+title: "Beaumont Health (Royal Oak)"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Jacqueline Macknis, MD is the Program Director at Beaumont Health (Royal Oak), located in Royal Oak, MI. 
+
+## Associate Program Directors
+
+- Thomas Fennell, MD

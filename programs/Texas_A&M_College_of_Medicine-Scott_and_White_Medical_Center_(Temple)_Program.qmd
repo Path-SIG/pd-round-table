@@ -1,0 +1,16 @@
+
+---
+title: "Texas A&M College of Medicine-Scott and White Medical Center (Temple) Program"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Bing Leng, MD is the Program Director at Texas A&M College of Medicine-Scott and White Medical Center (Temple) Program, located in Temple, TX. 
+
+## Associate Program Directors
+
+- Arundhati Rao, MD

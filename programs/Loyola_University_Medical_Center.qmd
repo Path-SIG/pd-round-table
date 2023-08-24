@@ -1,0 +1,16 @@
+
+---
+title: "Loyola University Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Rachel Gordezky, MD is the Program Director at Loyola University Medical Center, located in Maywood, IL. 
+
+## Associate Program Directors
+
+- Kamran M. Mirza, MD, PhD

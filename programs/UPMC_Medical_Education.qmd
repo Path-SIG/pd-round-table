@@ -1,0 +1,12 @@
+
+---
+title: "UPMC Medical Education"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:defrancesmc@upmc.edu
+---
+
+Marie C. DeFrances, MD, PhD is the Program Director at UPMC Medical Education, located in Pittsburgh, PA. 

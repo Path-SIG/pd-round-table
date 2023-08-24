@@ -1,0 +1,16 @@
+
+---
+title: "University of South Dakota"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Douglas Lynch, MD is the Program Director at University of South Dakota, located in Sioux Falls, SD. 
+
+## Associate Program Directors
+
+- Amy Kerkvliet, MD

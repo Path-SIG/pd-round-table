@@ -1,0 +1,17 @@
+
+---
+title: "Baylor College of Medicine"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Marwan Yared, MD is the Program Director at Baylor College of Medicine, located in Houston, TX. 
+
+## Associate Program Directors
+
+- Maren Fuller, MD (AP)
+- Lisa Hensch, MD (CP)

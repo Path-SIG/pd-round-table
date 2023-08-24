@@ -1,0 +1,61 @@
+```{python}
+import pandas as pd
+
+# Load the Excel file into a DataFrame
+df = pd.read_excel("../res/Pathology Residency Program Directors.xlsx")
+
+# Display the first few rows to get an understanding of the structure
+df.head()
+```
+
+```{python}
+import os
+
+def create_qmd_file(row, output_dir):
+    """
+    Create a .qmd file for a given row of data
+    """
+    # Extract relevant details
+    state = row['STATE']
+    city = row['CITY']
+    program = row['PROGRAM']
+    director_name = row['Program Director']
+    email = row['Program Director Email']
+    
+    # If director name is missing, return without generating a file
+    if pd.isna(director_name):
+        return
+    
+    # Associate Program Directors (might be multiple and some might be NaN)
+    associates = row[['Associate Program Director', 'Associate Program Director.1', 'Associate Program Director.2']].dropna().tolist()
+    
+    # Construct the .qmd content
+    content = f"""
+---
+title: "{program}"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:{email}
+---
+
+{director_name} is the Program Director at {program}, located in {city}, {state}. 
+"""
+    
+    if associates:
+        content += "\n## Associate Program Directors\n\n"
+        for associate in associates:
+            content += f"- {associate}\n"
+    
+    # Save the content to a .qmd file
+    file_name = program.replace(" ", "_").replace("/", "-") + ".qmd"
+    file_path = os.path.join(output_dir, file_name)
+    with open(file_path, 'w') as f:
+        f.write(content)
+
+# Exclude the header row and create .qmd files for each row
+for _, row in df.iloc[1:].iterrows():
+    create_qmd_file(row, "../programs")
+```

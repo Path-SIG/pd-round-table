@@ -1,0 +1,12 @@
+
+---
+title: "Los Angeles County-Harbor-UCLA Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Ping Ji, MD is the Program Director at Los Angeles County-Harbor-UCLA Medical Center, located in Torrance, CA. 

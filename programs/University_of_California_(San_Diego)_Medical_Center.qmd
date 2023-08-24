@@ -1,0 +1,16 @@
+
+---
+title: "University of California (San Diego) Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:g4lin@ucsd.edu
+---
+
+Grace Lin, MD, PhD is the Program Director at University of California (San Diego) Medical Center, located in San Diego, CA. 
+
+## Associate Program Directors
+
+- Jingjing Hu, MD, PhD

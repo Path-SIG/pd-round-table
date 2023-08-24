@@ -1,0 +1,12 @@
+
+---
+title: "University of Colorado"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:von.samedi@cuanschutz.edu
+---
+
+Von Samedi MD, PhD is the Program Director at University of Colorado, located in Aurora, CO. 

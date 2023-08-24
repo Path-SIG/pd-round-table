@@ -1,0 +1,12 @@
+
+---
+title: "Medical College of Wisconsin Affiliated Hospitals"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Juan C. Felix, MD is the Program Director at Medical College of Wisconsin Affiliated Hospitals, located in Milwaukee, WI. 

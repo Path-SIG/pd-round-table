@@ -1,0 +1,16 @@
+
+---
+title: "George Washington University"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:tbhavsar@mfa.gwu.edu
+---
+
+Tapan Bhavsar, MD, PhD is the Program Director at George Washington University, located in Washington, DC. 
+
+## Associate Program Directors
+
+- Xiomara Fernandez, MD

@@ -1,0 +1,12 @@
+
+---
+title: "Detroit Medical Center/Wayne State University"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Sudeshna Bandyopadhyay, MD is the Program Director at Detroit Medical Center/Wayne State University, located in Detroit, MI. 

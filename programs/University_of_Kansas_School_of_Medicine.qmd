@@ -1,0 +1,17 @@
+
+---
+title: "University of Kansas School of Medicine"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Katie L. Dennis, MD is the Program Director at University of Kansas School of Medicine, located in Kansas City, KS. 
+
+## Associate Program Directors
+
+- Nelli Lakis, MD
+- Jamie Porter, MD

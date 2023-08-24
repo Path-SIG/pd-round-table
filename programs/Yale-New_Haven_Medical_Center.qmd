@@ -1,0 +1,16 @@
+
+---
+title: "Yale-New Haven Medical Center"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Diane Kowalski, MD, MMSc is the Program Director at Yale-New Haven Medical Center, located in New Haven, CT. 
+
+## Associate Program Directors
+
+- Henry Rinder, MD

@@ -1,16 +1,27 @@
 project:
   type: website
+  render:
+  - "*.qmd"
+  - "!res/"
+  - "!scripts/"
 
 website:
   title: "PD Round Table"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: "Programs"
+        file: programs/index.qmd
       - about.qmd
+  sidebar: 
+    - title: "Programs"
+      contents:
+        - auto: programs/*.qmd
+      
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
+

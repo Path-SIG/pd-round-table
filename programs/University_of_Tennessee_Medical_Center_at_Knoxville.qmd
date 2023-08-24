@@ -1,0 +1,12 @@
+
+---
+title: "University of Tennessee Medical Center at Knoxville"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Alan Grindstaff, MD is the Program Director at University of Tennessee Medical Center at Knoxville, located in Knoxville, TN. 

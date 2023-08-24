@@ -1,0 +1,12 @@
+
+---
+title: "University of Missouri-Kansas City School of Medicine Program"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Kamani Lankachandra, MD is the Program Director at University of Missouri-Kansas City School of Medicine Program, located in Kansas City, MO. 

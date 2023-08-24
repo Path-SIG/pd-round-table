@@ -1,0 +1,12 @@
+
+---
+title: "East Tennessee State University/Quillen College of Medicine"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Salah Shurbaji, MD is the Program Director at East Tennessee State University/Quillen College of Medicine, located in Johnson City, TN. 

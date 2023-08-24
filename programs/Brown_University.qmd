@@ -1,0 +1,12 @@
+
+---
+title: "Brown University"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:nan
+---
+
+Diana Treaba, MD is the Program Director at Brown University, located in Providence, RI. 

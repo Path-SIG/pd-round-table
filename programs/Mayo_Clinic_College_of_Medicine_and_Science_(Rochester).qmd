@@ -1,0 +1,12 @@
+
+---
+title: "Mayo Clinic College of Medicine and Science (Rochester)"
+about:
+  template: jolla
+  links:
+    - icon: email
+      text: Email
+      href: mailto:quinton.reade@mayo.edu
+---
+
+Reade Quinton, MD is the Program Director at Mayo Clinic College of Medicine and Science (Rochester), located in Rochester, MN. 
