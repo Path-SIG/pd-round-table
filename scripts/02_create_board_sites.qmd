@@ -1,0 +1,60 @@
+---
+title: "Creating sites for the PathSIG Board Members"
+---
+
+```{python}
+import pandas as pd
+
+# Load the Excel file into a DataFrame
+df = pd.read_excel("../res/pathsig_board.xlsx")
+
+df.head()
+```
+
+
+```{python}
+import os
+
+def create_board_file(row, output_dir, image_dir):
+    """
+    Create a .qmd file for a given row of data
+    """
+    # Extract relevant details
+    member_name = row['Name']
+    image_url = row['Photo']
+    bio = row['Bio']
+    fun_facts = row['Fun Fact(s)']
+    fav_cell = row['Favorite Cell Type']
+    final_image_url = os.path.join(image_dir, image_url)
+    
+    # Construct the .qmd content
+    content = f"""
+---
+title: "{member_name}"
+about:
+  template: jolla
+  image: {final_image_url}
+---
+
+## Bio
+{bio}
+
+## Fun Fact(s)
+{fun_facts}
+
+## Favorite Cell Type
+{fav_cell}
+"""
+
+    # Save the content to a .qmd file
+    file_name = member_name.replace(" ", "_") + ".qmd"
+    file_path = os.path.join(output_dir, file_name)
+    with open(file_path, 'w') as f:
+        f.write(content)
+```
+
+```{python}
+# Exclude the header row and create .qmd files for each row
+for _, row in df.iloc[1:].iterrows():
+    create_board_file(row, "../board", "../res/images/board_pictures/")
+```

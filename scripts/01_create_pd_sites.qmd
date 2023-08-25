@@ -21,9 +21,10 @@ def create_qmd_file(row, output_dir):
     program = row['PROGRAM']
     director_name = row['Program Director']
     email = row['Program Director Email']
+    is_attending = row['Confirmed Attending']
     
-    # If director name is missing, return without generating a file
-    if pd.isna(director_name):
+    # If the school is not confirmed attending, return without generating a file
+    if pd.isna(is_attending):
         return
     
     # Associate Program Directors (might be multiple and some might be NaN)
@@ -32,12 +33,7 @@ def create_qmd_file(row, output_dir):
     # Construct the .qmd content
     content = f"""
 ---
-title: "{program}"
-categories: {state}
-about:
-  template: jolla
-  links:
-    - icon: email
+sd    - icon: email
       text: Email
       href: mailto:{email}
 ---
