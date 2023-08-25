@@ -2,410 +2,134 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/about.html</loc>
-    <lastmod>2023-08-24T19:08:59.507Z</lastmod>
+    <lastmod>2023-08-25T17:14:42.493Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/board/index.html</loc>
-    <lastmod>2023-08-24T19:08:59.840Z</lastmod>
+    <lastmod>2023-08-25T17:14:42.962Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/board/nacer_samir.html</loc>
-    <lastmod>2023-08-24T19:09:00.095Z</lastmod>
+    <lastmod>2023-08-25T17:14:43.314Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/event.html</loc>
-    <lastmod>2023-08-24T19:09:00.335Z</lastmod>
+    <lastmod>2023-08-25T17:14:43.620Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/index.html</loc>
-    <lastmod>2023-08-24T19:09:00.572Z</lastmod>
+    <lastmod>2023-08-25T17:14:43.904Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Allegheny_Health_Network_Medical_Education_Consortium_(AGH).html</loc>
-    <lastmod>2023-08-24T19:09:00.816Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Baylor_College_of_Medicine.html</loc>
-    <lastmod>2023-08-24T19:09:01.075Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Baylor_University_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:01.330Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Beaumont_Health_(Royal_Oak).html</loc>
-    <lastmod>2023-08-24T19:09:01.590Z</lastmod>
+    <lastmod>2023-08-25T17:14:44.172Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Beth_Israel_Deaconess_Medical_Center-Harvard_Medical_School.html</loc>
-    <lastmod>2023-08-24T19:09:01.868Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Boston_University_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:02.117Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Brown_University.html</loc>
-    <lastmod>2023-08-24T19:09:02.351Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Cedars-Sinai_Medical_Center_Program.html</loc>
-    <lastmod>2023-08-24T19:09:02.594Z</lastmod>
+    <lastmod>2023-08-25T17:14:44.428Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Cleveland_Clinic_Foundation_Program.html</loc>
-    <lastmod>2023-08-24T19:09:02.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Danbury_Hospital.html</loc>
-    <lastmod>2023-08-24T19:09:03.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Detroit_Medical_Center-Wayne_State_University.html</loc>
-    <lastmod>2023-08-24T19:09:03.337Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Duke_University_Hospital.html</loc>
-    <lastmod>2023-08-24T19:09:03.584Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/East_Tennessee_State_University-Quillen_College_of_Medicine.html</loc>
-    <lastmod>2023-08-24T19:09:03.826Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Emory_University_School_of_Medicine.html</loc>
-    <lastmod>2023-08-24T19:09:04.076Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Geisinger_Health_System_Program.html</loc>
-    <lastmod>2023-08-24T19:09:04.312Z</lastmod>
+    <lastmod>2023-08-25T17:14:44.702Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/George_Washington_University.html</loc>
-    <lastmod>2023-08-24T19:09:04.574Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Hartford_Hospital.html</loc>
-    <lastmod>2023-08-24T19:09:04.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Henry_Ford_Hospital-Wayne_State_University.html</loc>
-    <lastmod>2023-08-24T19:09:05.048Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Howard_University.html</loc>
-    <lastmod>2023-08-24T19:09:05.302Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Johns_Hopkins_University.html</loc>
-    <lastmod>2023-08-24T19:09:05.544Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Loma_Linda_University_Health_Education_Consortium.html</loc>
-    <lastmod>2023-08-24T19:09:05.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Los_Angeles_County-Harbor-UCLA_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:06.046Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Louisiana_State_University.html</loc>
-    <lastmod>2023-08-24T19:09:06.293Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Louisiana_State_University_(Shreveport).html</loc>
-    <lastmod>2023-08-24T19:09:06.552Z</lastmod>
+    <lastmod>2023-08-25T17:14:44.975Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Loyola_University_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:06.818Z</lastmod>
+    <lastmod>2023-08-25T17:14:45.247Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Massachusetts_General_Brigham_and_Women's_Hospital.html</loc>
-    <lastmod>2023-08-24T19:09:07.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Mayo_Clinic_College_of_Medicine_and_Science_(Rochester).html</loc>
-    <lastmod>2023-08-24T19:09:07.307Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/McGaw_Medical_Center_of_Northwestern_University.html</loc>
-    <lastmod>2023-08-24T19:09:07.544Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/MedStar_Health-Georgetown_University_Hospital.html</loc>
-    <lastmod>2023-08-24T19:09:07.770Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Medical_College_of_Georgia.html</loc>
-    <lastmod>2023-08-24T19:09:08.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Medical_College_of_Wisconsin_Affiliated_Hospitals.html</loc>
-    <lastmod>2023-08-24T19:09:08.251Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Medical_University_of_South_Carolina.html</loc>
-    <lastmod>2023-08-24T19:09:08.500Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Mount_Sinai_Medical_Center_of_Florida.html</loc>
-    <lastmod>2023-08-24T19:09:08.760Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/NYU_Grossman_School_of_Medicine.html</loc>
-    <lastmod>2023-08-24T19:09:09.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/National_Institutes_of_Health_Clinical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:09.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/New_York_Presbyterian_Hospital_(Columbia_Campus)_Program.html</loc>
-    <lastmod>2023-08-24T19:09:09.504Z</lastmod>
+    <lastmod>2023-08-25T17:14:45.503Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Ohio_State_University_Hospital_Program.html</loc>
-    <lastmod>2023-08-24T19:09:09.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Oregon_Health_&_Science_University_Program.html</loc>
-    <lastmod>2023-08-24T19:09:10.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Orlando_Health.html</loc>
-    <lastmod>2023-08-24T19:09:10.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Penrose-St_Francis_Health_Services.html</loc>
-    <lastmod>2023-08-24T19:09:10.512Z</lastmod>
+    <lastmod>2023-08-25T17:14:45.756Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Stanford_Health_Care-Sponsored_Stanford_University.html</loc>
-    <lastmod>2023-08-24T19:09:10.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Texas_A&M_College_of_Medicine-Scott_and_White_Medical_Center_(Temple)_Program.html</loc>
-    <lastmod>2023-08-24T19:09:11.022Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Tufts_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:11.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Tulane_University.html</loc>
-    <lastmod>2023-08-24T19:09:11.524Z</lastmod>
+    <lastmod>2023-08-25T17:14:46.031Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/UCLA_David_Geffen_School_of_Medicine-UCLA_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:11.784Z</lastmod>
+    <lastmod>2023-08-25T17:14:46.326Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/UC_Davis_Health.html</loc>
-    <lastmod>2023-08-24T19:09:12.017Z</lastmod>
+    <lastmod>2023-08-25T17:14:46.588Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/UC_Irvine_Health.html</loc>
-    <lastmod>2023-08-24T19:09:12.275Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/UMMS-Baystate.html</loc>
-    <lastmod>2023-08-24T19:09:12.526Z</lastmod>
+    <lastmod>2023-08-25T17:14:46.838Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/UPMC_Medical_Education.html</loc>
-    <lastmod>2023-08-24T19:09:12.757Z</lastmod>
+    <lastmod>2023-08-25T17:14:47.091Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/USA_Health_Program.html</loc>
-    <lastmod>2023-08-24T19:09:12.996Z</lastmod>
+    <lastmod>2023-08-25T17:14:47.337Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/USC-LAC+USC_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:13.232Z</lastmod>
+    <lastmod>2023-08-25T17:14:47.582Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Alabama_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:13.468Z</lastmod>
+    <lastmod>2023-08-25T17:14:47.821Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Arizona_College_of_Medicine-Tucson.html</loc>
-    <lastmod>2023-08-24T19:09:13.718Z</lastmod>
+    <lastmod>2023-08-25T17:14:48.069Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Arkansas_for_Medical_Sciences_(UAMS)_College_of_Medicine_Program.html</loc>
-    <lastmod>2023-08-24T19:09:13.967Z</lastmod>
+    <lastmod>2023-08-25T17:14:48.322Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_California_(San_Diego)_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:14.206Z</lastmod>
+    <lastmod>2023-08-25T17:14:48.576Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_California_(San_Francisco).html</loc>
-    <lastmod>2023-08-24T19:09:14.469Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Chicago.html</loc>
-    <lastmod>2023-08-24T19:09:14.726Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Chicago_(NorthShore).html</loc>
-    <lastmod>2023-08-24T19:09:14.976Z</lastmod>
+    <lastmod>2023-08-25T17:14:48.825Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Colorado.html</loc>
-    <lastmod>2023-08-24T19:09:15.226Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Florida.html</loc>
-    <lastmod>2023-08-24T19:09:15.472Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Florida_College_of_Medicine_Jacksonville.html</loc>
-    <lastmod>2023-08-24T19:09:15.723Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Hawaii.html</loc>
-    <lastmod>2023-08-24T19:09:15.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Iowa_Hospitals_and_Clinics.html</loc>
-    <lastmod>2023-08-24T19:09:16.217Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Kansas_School_of_Medicine.html</loc>
-    <lastmod>2023-08-24T19:09:16.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Kentucky_College_of_Medicine.html</loc>
-    <lastmod>2023-08-24T19:09:16.763Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Louisville_School_of_Medicine.html</loc>
-    <lastmod>2023-08-24T19:09:17.013Z</lastmod>
+    <lastmod>2023-08-25T17:14:49.073Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Maryland.html</loc>
-    <lastmod>2023-08-24T19:09:17.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Massachusetts.html</loc>
-    <lastmod>2023-08-24T19:09:17.491Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Miami-Jackson_Health_System.html</loc>
-    <lastmod>2023-08-24T19:09:17.749Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Michigan_Health_System.html</loc>
-    <lastmod>2023-08-24T19:09:18.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Minnesota.html</loc>
-    <lastmod>2023-08-24T19:09:18.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Missouri-Columbia.html</loc>
-    <lastmod>2023-08-24T19:09:18.503Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Missouri-Kansas_City_School_of_Medicine_Program.html</loc>
-    <lastmod>2023-08-24T19:09:18.760Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_North_Carolina_Hospitals.html</loc>
-    <lastmod>2023-08-24T19:09:19.014Z</lastmod>
+    <lastmod>2023-08-25T17:14:49.323Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Pennsylvania_Health_System_Program.html</loc>
-    <lastmod>2023-08-24T19:09:19.251Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Puerto_Rico.html</loc>
-    <lastmod>2023-08-24T19:09:19.494Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Rochester_Program.html</loc>
-    <lastmod>2023-08-24T19:09:19.730Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_South_Dakota.html</loc>
-    <lastmod>2023-08-24T19:09:19.976Z</lastmod>
+    <lastmod>2023-08-25T17:14:49.571Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_South_Florida_Morsani_Program.html</loc>
-    <lastmod>2023-08-24T19:09:20.210Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Tennessee_Medical_Center_at_Knoxville.html</loc>
-    <lastmod>2023-08-24T19:09:20.461Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Tennessee_Medical_Center_at_Memphis.html</loc>
-    <lastmod>2023-08-24T19:09:20.699Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Texas_Health_Science_Center_San_Antonio_Joe_and_Teresa_Lozano_Long_School_of_Medicine_Program.html</loc>
-    <lastmod>2023-08-24T19:09:20.955Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Texas_Health_Science_Center_at_Houston_Program.html</loc>
-    <lastmod>2023-08-24T19:09:21.198Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Texas_Medical_Branch_Hospitals.html</loc>
-    <lastmod>2023-08-24T19:09:21.447Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Texas_Southwestern_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:21.700Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Toledo_Program.html</loc>
-    <lastmod>2023-08-24T19:09:21.940Z</lastmod>
+    <lastmod>2023-08-25T17:14:49.824Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Utah_Health_Program.html</loc>
-    <lastmod>2023-08-24T19:09:22.176Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Vermont_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:22.420Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Virginia_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:22.652Z</lastmod>
+    <lastmod>2023-08-25T17:14:50.088Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Washington.html</loc>
-    <lastmod>2023-08-24T19:09:22.887Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/University_of_Wisconsin_Hospitals_and_Clinics.html</loc>
-    <lastmod>2023-08-24T19:09:23.150Z</lastmod>
+    <lastmod>2023-08-25T17:14:50.340Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/Vanderbilt_University_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:23.388Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Virginia_Commonwealth_University_Health_System_.html</loc>
-    <lastmod>2023-08-24T19:09:23.637Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Washington_University-B-JH-SLCH_Consortium.html</loc>
-    <lastmod>2023-08-24T19:09:23.880Z</lastmod>
+    <lastmod>2023-08-25T17:14:50.591Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/West_Virginia_University.html</loc>
-    <lastmod>2023-08-24T19:09:24.116Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tosaddler/pd-round-table/programs/Yale-New_Haven_Medical_Center.html</loc>
-    <lastmod>2023-08-24T19:09:24.366Z</lastmod>
+    <lastmod>2023-08-25T17:14:50.855Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tosaddler/pd-round-table/programs/index.html</loc>
-    <lastmod>2023-08-24T19:09:25.376Z</lastmod>
+    <lastmod>2023-08-25T17:14:51.403Z</lastmod>
   </url>
 </urlset>
