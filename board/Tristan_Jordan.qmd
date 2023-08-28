@@ -1,0 +1,16 @@
+---
+title: "Tristan Jordan"
+image: ../res/images/board_pictures/tristan_jordan.jpg
+about:
+  template: jolla
+  image: ../res/images/board_pictures/tristan_jordan.jpg
+---
+
+## Bio
+4th Year Medical Student at the George Washington University School of Medicine and Health Sciences
+
+## Fun Fact(s)
+I grew up in the Philippines in a province called Tarlac. 
+
+## Favorite Cell Type
+Chromaffin Cells!
