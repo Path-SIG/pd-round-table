@@ -1,1 +1,1 @@
-Sitemap: https://github.com/tosaddler/pd-round-table/sitemap.xml
+Sitemap: https://github.com/Path-SIG/pd-round-table/sitemap.xml
